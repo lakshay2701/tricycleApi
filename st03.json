@@ -1,0 +1,53 @@
+[
+    {
+        "id": "tricyclec",
+        "name":"ST-03",
+        "company":"stepupp",
+        "price":1999,
+        "colors":["#ff0000","#ff00b5","#0600b5","#000100","#f2f000"],
+        "description":"BABY TRICYCLE FOR KIDS WITH FRONT AND BACK BASKET BLACK COLOUR KIDS TRICYCLE RECOMMENDED TRICYCLE FOR BABY GIRL OR TRICYCLE FOR BABY BOY OR TRICYCLE FOR TODDLER GIRL OR TRICYCLE FOR TODDLER BOY RECOMMENDED FOR TODDLER 1,2,3,4,5 YEAR CHILDREN TRICYCLE FOR KIDS",
+        "category":"tricycle",
+        "featured": true,
+        "stock":5,
+        "reviews":58,
+        "stars":4.9,
+        "image":[{
+            "id":"randomid1",
+            "width":1080,
+            "height":650,
+            "url":"https://rukminim1.flixcart.com/image/416/416/kzhbfrk0/toy-tricycle/r/2/m/tricycle-for-kids-for-1to5-year-old-children-tricycle-for-kids-original-imagbh8hnzqmpvxg.jpeg?q=70",
+            "filename":"prod-1.jpg",
+            "size":1080,
+            "type":"image/jpg"
+        },
+        {
+            "id":"randomid2",
+            "width":1080,
+            "height":650,
+            "url":"https://rukminim1.flixcart.com/image/416/416/kzhbfrk0/toy-tricycle/n/v/v/tricycle-for-kids-for-1to5-year-old-children-tricycle-for-kids-original-imagbh8hsxbzhtsk.jpeg?q=70",
+            "filename":"prod-2.jpg",
+            "size":1080,
+            "type":"image/jpg"
+
+        },
+        {
+            "id":"randomid3",
+            "width":1080,
+            "height":650,
+            "url":"https://rukminim1.flixcart.com/image/416/416/kzhbfrk0/toy-tricycle/b/s/m/tricycle-for-kids-for-1to5-year-old-children-tricycle-for-kids-original-imagbh8hycwkr2m4.jpeg?q=70",
+            "filename":"prod-3.jpg",
+            "size":1080,
+            "type":"image/jpg"
+
+        },
+        {
+            "id":"randomid4",
+            "width":1080,
+            "height":650,
+            "url":"https://rukminim1.flixcart.com/image/416/416/kzhbfrk0/toy-tricycle/k/l/d/2in1-tricycle-with-safety-guardrail-and-handle-for-age-group-1-original-imagbh98zj9ghz8r.jpeg?q=70",
+            "filename":"prod-4.jpg",
+            "size":1080,
+            "type":"image/jpg"
+        }]
+    }
+]

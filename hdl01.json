@@ -1,0 +1,53 @@
+[
+    {
+        "id": "tricycleb",
+        "name":"HDL-01",
+        "company":"stepupp",
+        "price":1699,
+        "colors":["#ff0000","#ff00b5","#0600b5","#000100","#f2f000"],
+        "description":"BABY TRICYCLE FOR KIDS WITH FRONT AND BACK BASKET BLACK COLOUR KIDS TRICYCLE RECOMMENDED TRICYCLE FOR BABY GIRL OR TRICYCLE FOR BABY BOY OR TRICYCLE FOR TODDLER GIRL OR TRICYCLE FOR TODDLER BOY RECOMMENDED FOR TODDLER 1,2,3,4,5 YEAR CHILDREN TRICYCLE FOR KIDS",
+        "category":"tricycle",
+        "featured": true,
+        "stock":5,
+        "reviews":58,
+        "stars":4.9,
+        "image":[{
+            "id":"randomid1",
+            "width":1080,
+            "height":650,
+            "url":"https://rukminim1.flixcart.com/image/416/416/ksoz53k0/toy-tricycle/c/u/z/kids-pink-little-idea-original-imag67q2rjy7xs4u.jpeg?q=70",
+            "filename":"prod-1.jpg",
+            "size":1080,
+            "type":"image/jpg"
+        },
+        {
+            "id":"randomid2",
+            "width":1080,
+            "height":650,
+            "url":"https://rukminim1.flixcart.com/image/416/416/ksoz53k0/toy-tricycle/y/m/u/kids-pink-little-idea-original-imag67q2wqge43fh.jpeg?q=70",
+            "filename":"prod-2.jpg",
+            "size":1080,
+            "type":"image/jpg"
+
+        },
+        {
+            "id":"randomid3",
+            "width":1080,
+            "height":650,
+            "url":"https://rukminim1.flixcart.com/image/416/416/ksoz53k0/toy-tricycle/5/5/9/kids-pink-little-idea-original-imag67q2xhgjy44k.jpeg?q=70",
+            "filename":"prod-3.jpg",
+            "size":1080,
+            "type":"image/jpg"
+
+        },
+        {
+            "id":"randomid4",
+            "width":1080,
+            "height":650,
+            "url":"https://rukminim1.flixcart.com/image/416/416/ksoz53k0/toy-tricycle/w/s/k/kids-pink-little-idea-original-imag67q22ahh7bre.jpeg?q=70",
+            "filename":"prod-4.jpg",
+            "size":1080,
+            "type":"image/jpg"
+        }]
+    }
+]

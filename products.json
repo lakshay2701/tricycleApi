@@ -1,0 +1,127 @@
+[
+    {
+        "id": "tricyclea",
+        "name":"BST-01",
+        "company":"stepupp",
+        "price": 1399,
+        "colors": ["#ff0000","#ff00b5","#0600b5","#000100","#f2f000"],
+        "image":"https://rukminim1.flixcart.com/image/416/416/kqmo8sw0/toy-tricycle/g/g/4/stp-g-front-and-back-basket-black-color-for-kids-15-stepupp-grow-original-imag4hpynyffgrjf.jpeg?q=70",
+        "description":"BABY TRICYCLE FOR KIDS WITH FRONT AND BACK BASKET BLACK COLOUR KIDS TRICYCLE RECOMMENDED TRICYCLE FOR BABY GIRL OR TRICYCLE FOR BABY BOY OR TRICYCLE FOR TODDLER GIRL OR TRICYCLE FOR TODDLER BOY RECOMMENDED FOR TODDLER 1,2,3,4,5 YEAR CHILDREN TRICYCLE FOR KIDS",
+        "category":"tricycle",
+        "featured": true
+
+    },
+
+    {
+        "id":"tricycleb",
+        "name":"HDL-01",
+        "company":"stepupp",
+        "price":1699,
+        "colors":["#ff0000","#ff00b5","#0600b5","#000100","#f2f000"],
+        "image":"https://rukminim1.flixcart.com/image/416/416/ksqeky80/toy-tricycle/u/c/o/dy-pink-handle-front-and-back-basket-for-kids-and-children-14-original-imag68hxhgdqn8ec.jpeg?q=70",
+        "description":"BABY TRICYCLE FOR KIDS WITH FRONT AND BACK BASKET BLACK COLOUR KIDS TRICYCLE RECOMMENDED TRICYCLE FOR BABY GIRL OR TRICYCLE FOR BABY BOY OR TRICYCLE FOR TODDLER GIRL OR TRICYCLE FOR TODDLER BOY RECOMMENDED FOR TODDLER 1,2,3,4,5 YEAR CHILDREN TRICYCLE FOR KIDS",
+        "category":"tricycle",
+        "featured": true
+
+    },
+
+    {
+        "id":"tricyclec",
+        "name":"ST-03",
+        "company":"stepupp",
+        "price":1999,
+        "colors":["#ff0000","#ff00b5","#0600b5","#000100","#f2f000"],
+        "image":"https://rukminim1.flixcart.com/image/416/416/kzhbfrk0/toy-tricycle/k/l/d/2in1-tricycle-with-safety-guardrail-and-handle-for-age-group-1-original-imagbh98zj9ghz8r.jpeg?q=70",
+        "description":"BABY TRICYCLE FOR KIDS WITH FRONT AND BACK BASKET BLACK COLOUR KIDS TRICYCLE RECOMMENDED TRICYCLE FOR BABY GIRL OR TRICYCLE FOR BABY BOY OR TRICYCLE FOR TODDLER GIRL OR TRICYCLE FOR TODDLER BOY RECOMMENDED FOR TODDLER 1,2,3,4,5 YEAR CHILDREN TRICYCLE FOR KIDS",
+        "category":"tricycle",
+        "featured": true
+
+    },
+
+    {
+        "id":"tricyled",
+        "name":"ST-04",
+        "company":"stepupp",
+        "price":2199,
+        "colors":["#ff0000","#ff00b5","#0600b5","#000100","#f2f000"],
+        "image":"https://rukminim1.flixcart.com/image/416/416/l05lx8w0/toy-tricycle/g/y/4/ky-black-handle-back-and-front-basket-for-baby-07-kayoksh-original-imagcy9zqqxq3f7c.jpeg?q=70",
+        "description":"BABY TRICYCLE FOR KIDS WITH FRONT AND BACK BASKET BLACK COLOUR KIDS TRICYCLE RECOMMENDED TRICYCLE FOR BABY GIRL OR TRICYCLE FOR BABY BOY OR TRICYCLE FOR TODDLER GIRL OR TRICYCLE FOR TODDLER BOY RECOMMENDED FOR TODDLER 1,2,3,4,5 YEAR CHILDREN TRICYCLE FOR KIDS",
+        "category":"tricycle",
+        "featured": true
+
+    },
+
+    {
+        "id":"tricyclee",
+        "name":"BST-02",
+        "company":"stepupp",
+        "price":1499,
+        "colors":["#ff0000","#ff00b5","#0600b5","#000100","#f2f000"],
+        "image":"https://i.postimg.cc/KjjgqTj7/05.jpg",
+        "description":"BABY TRICYCLE FOR KIDS WITH FRONT AND BACK BASKET BLACK COLOUR KIDS TRICYCLE RECOMMENDED TRICYCLE FOR BABY GIRL OR TRICYCLE FOR BABY BOY OR TRICYCLE FOR TODDLER GIRL OR TRICYCLE FOR TODDLER BOY RECOMMENDED FOR TODDLER 1,2,3,4,5 YEAR CHILDREN TRICYCLE FOR KIDS",
+        "category":"tricycle",
+        "featured": true
+
+
+    },
+
+    {
+        "id":"tricyclef",
+        "name":"HDL-02",
+        "company":"stepupp",
+        "price":1999,
+        "colors":["#ff0000","#ff00b5","#0600b5","#000100","#f2f000"],
+        "image":"https://i.postimg.cc/B6Q8bFTW/08.jpg",
+        "description":"BABY TRICYCLE FOR KIDS WITH FRONT AND BACK BASKET BLACK COLOUR KIDS TRICYCLE RECOMMENDED TRICYCLE FOR BABY GIRL OR TRICYCLE FOR BABY BOY OR TRICYCLE FOR TODDLER GIRL OR TRICYCLE FOR TODDLER BOY RECOMMENDED FOR TODDLER 1,2,3,4,5 YEAR CHILDREN TRICYCLE FOR KIDS",
+        "category":"tricycle",
+        "featured": true
+
+
+    },
+
+    {
+        "id":"tricycleg",
+        "name":"ST-05",
+        "company":"stepupp",
+        "price":2299,
+        "colors":["#ff0000","#ff00b5","#0600b5","#000100","#f2f000"],
+        "image":"https://i.postimg.cc/Ss2nchvV/05.jpg",
+        "description":"BABY TRICYCLE FOR KIDS WITH FRONT AND BACK BASKET BLACK COLOUR KIDS TRICYCLE RECOMMENDED TRICYCLE FOR BABY GIRL OR TRICYCLE FOR BABY BOY OR TRICYCLE FOR TODDLER GIRL OR TRICYCLE FOR TODDLER BOY RECOMMENDED FOR TODDLER 1,2,3,4,5 YEAR CHILDREN TRICYCLE FOR KIDS",
+        "category":"tricycle",
+        "featured": true
+
+
+    },
+
+    {
+        "id":"walkera",
+        "name":"walker01",
+        "company":"stepupp",
+        "price":1299,
+        "colors":["#fd0000","#00d100","#ffc0cb","#0000ff"],
+        "image":"https://rukminim1.flixcart.com/image/416/416/kt4ozgw0/walker/p/u/x/stp-g-red-musical-2-in-1-walker-with-parent-rod-for-baby-02-db-original-imag6jnytedrzzfy.jpeg?q=70",
+        "description":"Stepupp present a trendy musical activity walker.This is recommended for 8 to 24 months age of baby.Its made high quality plastic safe for your kids.this musical activity walker make your kids fun and entertain also.it is also foldable and can be stored easily when not in use",
+        "category":"walker",
+        "featured": true
+
+    },
+
+    {
+        "id":"pramb",
+        "name":"pram",
+        "company":"stepupp",
+        "price":2999,
+        "colors":["#fd0000","#00d100","#ffc0cb","#0000ff"],
+        "image":"https://rukminim1.flixcart.com/image/416/416/kwcfngw0/stroller-pram/r/p/s/0-pram-for-kids-stroller-for-kids-baby-pram-baby-stroller-46-5-original-imag9fhdvtwjzduc.jpeg?q=70",
+        "description":"When your baby can discover the world safely, it adds hours of fun and engaging trips to both your days. Mee Mee Baby Pram lets your baby sit comfortably and feel safe to experience new sounds, movements, colours and shapes. Made to adhere to the highest safety standards, it keeps your baby comfortable and safe along normal, bumpy or unpaved paths while having a joyful ride",
+        "category":"pram",
+        "featured": true
+
+    }
+
+   
+
+
+
+
+]

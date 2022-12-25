@@ -1,0 +1,53 @@
+[
+    {
+        "id": "pramb",
+        "name":"pram",
+        "company":"stepupp",
+        "price":2999,
+        "colors":["#fd0000","#00d100","#ffc0cb","#0000ff"],
+        "description":"When your baby can discover the world safely, it adds hours of fun and engaging trips to both your days. Mee Mee Baby Pram lets your baby sit comfortably and feel safe to experience new sounds, movements, colours and shapes. Made to adhere to the highest safety standards, it keeps your baby comfortable and safe along normal, bumpy or unpaved paths while having a joyful ride",
+        "category":"pram",
+        "featured": true,
+        "stock":5,
+        "reviews":80,
+        "stars":4.3,
+        "image":[{
+            "id":"randomid1",
+            "width":1080,
+            "height":650,
+            "url":"https://rukminim1.flixcart.com/image/416/416/kwcfngw0/stroller-pram/v/n/b/0-pram-for-kids-stroller-for-kids-baby-pram-baby-stroller-46-5-original-imag9fhbre9ukfkf.jpeg?q=70",
+            "filename":"prod-1.jpg",
+            "size":1080,
+            "type":"image/jpg"
+        },
+        {
+            "id":"randomid2",
+            "width":1080,
+            "height":650,
+            "url":"https://rukminim1.flixcart.com/image/416/416/kwcfngw0/stroller-pram/a/v/2/0-pram-for-kids-stroller-for-kids-baby-pram-baby-stroller-46-5-original-imag9fhbtygv6jaf.jpeg?q=70",
+            "filename":"prod-2.jpg",
+            "size":1080,
+            "type":"image/jpg"
+
+        },
+        {
+            "id":"randomid3",
+            "width":1080,
+            "height":650,
+            "url":"https://rukminim1.flixcart.com/image/416/416/kwcfngw0/stroller-pram/r/k/1/0-pram-for-kids-stroller-for-kids-baby-pram-baby-stroller-46-5-original-imag9fhbuzxdsq9y.jpeg?q=70",
+            "filename":"prod-3.jpg",
+            "size":1080,
+            "type":"image/jpg"
+
+        },
+        {
+            "id":"randomid4",
+            "width":1080,
+            "height":650,
+            "url":"https://rukminim1.flixcart.com/image/416/416/kwcfngw0/stroller-pram/v/j/d/0-pram-for-kids-stroller-for-kids-baby-pram-baby-stroller-46-5-original-imag9fhbzyn9mdvz.jpeg?q=70",
+            "filename":"prod-4.jpg",
+            "size":1080,
+            "type":"image/jpg"
+        }]
+    }
+]
